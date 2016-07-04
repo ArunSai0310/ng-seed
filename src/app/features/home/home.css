@@ -1,0 +1,25 @@
+body
+{
+  background-image: url("https://seo-michael.co.uk/content/images/2016/03/freemoviefeat.jpg");
+}
+.container .row
+{
+  margin-top: 70px;
+  background-color:rgba(0, 0, 0, 0.87);
+  padding-top: 15px;
+  border: solid 1px slategrey;
+}
+.navbar-fixed-top
+{
+  background-color: rgba(0, 0, 0, 0.72);
+}
+img
+{
+  width: 144px;
+  height: 200px;
+}
+.img-responsive
+{
+  margin: 5%;
+  border: 2px solid #D6D6D6;
+}
