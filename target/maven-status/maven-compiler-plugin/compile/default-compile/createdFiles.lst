@@ -1,0 +1,11 @@
+io\arun\movies_hub\exception\MovieAlreadyExistException.class
+io\arun\movies_hub\AppInitializer.class
+io\arun\movies_hub\service\MovieService.class
+io\arun\movies_hub\repository\MovieRepository.class
+io\arun\movies_hub\repository\MovieRepositoryImpl.class
+io\arun\movies_hub\exception\MovieNotFound.class
+io\arun\movies_hub\service\MovieServiceImpl.class
+io\arun\movies_hub\AppConfig.class
+io\arun\movies_hub\JPAConfig.class
+io\arun\movies_hub\entity\Movie.class
+io\arun\movies_hub\controller\MovieController.class
